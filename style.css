@@ -846,6 +846,16 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+@media (max-width: 800px) {
+    .bg-banniere {
+        background-image: url("img/agence-la-panthere-mobile.webp");
+    }
+
+    .bg-presentation {
+        background-image: url("img/image-de-presentation-mobile.webp");
+    }
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
