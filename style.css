@@ -37,6 +37,11 @@ blockquote {
     font-weight: bold;
 }
 
+.firstplan {
+    position: relative;
+    z-index: 1;
+}
+
 .blockquote-span {
     font-style: italic;
     font-weight: 400;
